@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter / Colab
+.ipynb_checkpoints/
+
+# Ambientes virtuais
+venv/
+env/
+.venv/
+
+# Arquivos de configuração com possíveis credenciais
+.env
+
+# VS Code / PyCharm
+.vscode/
+.idea/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
